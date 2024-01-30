@@ -9,4 +9,8 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+
+  { "Olical/nfnl", ft = "fennel" },
+
+  { "Olical/conjure" },
 }
